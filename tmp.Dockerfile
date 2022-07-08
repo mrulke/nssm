@@ -1,2 +1,0 @@
-FROM didstopia/msbuild
-COPY . ~/
